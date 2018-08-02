@@ -56,5 +56,7 @@ export function buildChunks (chunks) {
             html += item.content
         }
     })
+    // todo: check xss attack here.
+
     return html
 }
