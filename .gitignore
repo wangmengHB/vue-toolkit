@@ -1,1 +1,10 @@
 node_modules
+lib
+
+.idea
+.vscode
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
